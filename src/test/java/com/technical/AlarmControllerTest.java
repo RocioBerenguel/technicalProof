@@ -1,4 +1,4 @@
-package com.eltiempo.rest.eltiempospring;
+package com.technical;
 
 import static org.junit.Assert.assertTrue;
 
